@@ -4,6 +4,6 @@
   "version": "2025.7.11",
   "requirements": ["requests"],
   "codeowners": [],
-  "documentation": "https://github.com/smarthomeblack/zalo-bot",
+  "documentation": "https://github.com/hoducnguyenhd/zalo-bot",
   "config_flow": true
 }

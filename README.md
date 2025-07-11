@@ -15,7 +15,7 @@ Dự án này cung cấp một bot Zalo tích hợp cho Home Assistant, giúp b�
 
 Vào HACS > Integrations > Ba chấm góc phải > Custom repositories, thêm đường dẫn repo:
 ```
-https://github.com/smarthomeblack/zalo_bot
+https://github.com/hoducnguyenhd/zalo_bot
 ```
 Chọn loại: Integration.
 
